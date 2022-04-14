@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_quiz2.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_quiz3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_quiz4.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_quiz5.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_quize1.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_quize3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_register.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/khoum/OneDrive/Bureau/S8 Miage/Application mobile/QuizApp_C/app/src/main/res/layout/activity_score.xml" value="0.1259259259259259" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
